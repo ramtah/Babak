@@ -1,5 +1,5 @@
 PyPDF2
 langchain
 streamlit
-python-dotenv
-openai
+
+
