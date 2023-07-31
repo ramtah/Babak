@@ -2,5 +2,6 @@ PyPDF2
 langchain
 streamlit
 openai
+duckduckgo-search
 
 
