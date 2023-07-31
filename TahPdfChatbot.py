@@ -1,13 +1,13 @@
 import os
 import io
 import PyPDF2
-#from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from langchain.llms import OpenAI
 from langchain.agents import AgentType, initialize_agent, load_tools
 from langchain.callbacks import StreamlitCallbackHandler
 import streamlit as st
 
-#load_dotenv()
+# load_dotenv()
 
 # Adding the title "BABAK" centered at the top
 st.markdown("<h1 style='text-align: center;'>BABAK</h1>", unsafe_allow_html=True)
