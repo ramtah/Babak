@@ -1,7 +1,13 @@
 PyPDF2
 langchain
 streamlit
+python-dotenv
+faiss-cpu
 openai
-duckduckgo-search
+# uncomment to use huggingface llms
+# huggingface-hub
+# uncomment to use instructor embeddings
+# InstructorEmbedding
+# sentence-transformers
 
 
